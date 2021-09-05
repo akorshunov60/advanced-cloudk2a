@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "spring.eureka.instance.hostname",
+      "type": "java.lang.String",
+      "description": "Description for spring.eureka.instance.hostname."
+    },
+    {
+      "name": "eureka.client.register-with-eureka",
+      "type": "java.lang.String",
+      "description": "Description for eureka.client.register-with-eureka."
+    }
+  ]
+}
